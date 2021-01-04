@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 25px;
+}
+.name-highlighter{
+    color: orange;
+}
+.half-area {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-area img {
+    width: 100%;
+}
